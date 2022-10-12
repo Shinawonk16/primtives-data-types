@@ -1,0 +1,16 @@
+C:\Users\Toshiba\Desktop\Exercises review\chapter two\Question three\bin\Debug\net5.0\Question three.exe
+C:\Users\Toshiba\Desktop\Exercises review\chapter two\Question three\bin\Debug\net5.0\Question three.deps.json
+C:\Users\Toshiba\Desktop\Exercises review\chapter two\Question three\bin\Debug\net5.0\Question three.runtimeconfig.json
+C:\Users\Toshiba\Desktop\Exercises review\chapter two\Question three\bin\Debug\net5.0\Question three.runtimeconfig.dev.json
+C:\Users\Toshiba\Desktop\Exercises review\chapter two\Question three\bin\Debug\net5.0\Question three.dll
+C:\Users\Toshiba\Desktop\Exercises review\chapter two\Question three\bin\Debug\net5.0\ref\Question three.dll
+C:\Users\Toshiba\Desktop\Exercises review\chapter two\Question three\bin\Debug\net5.0\Question three.pdb
+C:\Users\Toshiba\Desktop\Exercises review\chapter two\Question three\obj\Debug\net5.0\Question three.csproj.AssemblyReference.cache
+C:\Users\Toshiba\Desktop\Exercises review\chapter two\Question three\obj\Debug\net5.0\Question three.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\Desktop\Exercises review\chapter two\Question three\obj\Debug\net5.0\Question three.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Desktop\Exercises review\chapter two\Question three\obj\Debug\net5.0\Question three.AssemblyInfo.cs
+C:\Users\Toshiba\Desktop\Exercises review\chapter two\Question three\obj\Debug\net5.0\Question three.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\Exercises review\chapter two\Question three\obj\Debug\net5.0\Question three.dll
+C:\Users\Toshiba\Desktop\Exercises review\chapter two\Question three\obj\Debug\net5.0\ref\Question three.dll
+C:\Users\Toshiba\Desktop\Exercises review\chapter two\Question three\obj\Debug\net5.0\Question three.pdb
+C:\Users\Toshiba\Desktop\Exercises review\chapter two\Question three\obj\Debug\net5.0\Question three.genruntimeconfig.cache
